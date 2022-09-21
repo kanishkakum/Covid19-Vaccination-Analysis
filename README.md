@@ -6,6 +6,6 @@
 
 3. Analysed the data and nature of the columns.
 
-4. Loaded that in powerbi, cleaned that data using power query editor with DAX
+4. Loaded that data in powerbi.
 
 5. Developed an interactive dashboard.
